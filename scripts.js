@@ -9,8 +9,8 @@ letter.addEventListener('click', () => {
 });
 
 noBtn.addEventListener('click', () => {
-    const maxX = 350;
-    const maxY = 350;
+    const maxX = 200;
+    const maxY = 200;
     const x = Math.random() * maxX;
     const y = Math.random() * maxY;
     
